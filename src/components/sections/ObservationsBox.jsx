@@ -450,6 +450,10 @@
 
 
 
+
+
+
+
 import React, { useState, useRef, useEffect } from 'react';
 import { ForceGraph2D } from 'react-force-graph';
 
@@ -588,6 +592,10 @@ const ObservationsBox = () => {
 };
 
 export default ObservationsBox;
+
+
+
+
 
 
 
