@@ -779,14 +779,14 @@ const sectionOneData = [
   {
     title: 'Afaq Almustqbal Cargo & Transport',
     // image: 'public/images/Screenshot 2025-02-05 at 6.09.04 pm.png',
-    image: 'public/images/Screenshot 2025-02-05 at 6.09.16 pm.png',
+    image: 'public/images/Screenshot_2025_02_05_3.png',
 
     sub: true
   },
   {
     title: 'Afaq Al-Mustqba Transport LLC',
     // image: 'public/images/Screenshot 2025-02-05 at 6.09.16 pm.png',
-    image: 'public/images/Screenshot 2025-02-05 at 6.09.04 pm.png',
+    image: 'public/images/Screenshot_2025_02_05_4.png',
 
     sub: true
   }
@@ -1004,7 +1004,7 @@ const BlankFourSectionLayout = () => {
               Afaq Al-Mustqbal Transport LLC
             </h3>
             <img
-              src="public/images/Screenshot 2025-02-05_2.png"
+              src="public/images/Screenshot_2025_02_05_2.png"
               alt="Screenshot 2025-02-05_2"
               className="w-full h-auto rounded-lg"
             />
@@ -1016,7 +1016,7 @@ const BlankFourSectionLayout = () => {
               Afaq Almustqbal Transport
             </h3>
             <img
-              src="/images/Screenshot 2025-02-05_1.png"
+              src="/images/Screenshot_2025_02_05_1.png"
               alt="Screenshot 2025-02-05_1"
               className="w-full h-auto rounded-lg"
             />
