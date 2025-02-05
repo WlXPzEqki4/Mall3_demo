@@ -1768,7 +1768,7 @@ const initialNodes = [
     subtext: 'Iraqi Planner',
     details: 'Another Iraqi planner for the scheme.',
     x: 140,
-    y: 180
+    y: 600
   },
   {
     id: 'afaq',
@@ -1786,7 +1786,7 @@ const initialNodes = [
     subtext: 'Cash',
     details: 'Monetary value handled through the chain.',
     x: 300,
-    y: 390
+    y: 500
   },
   {
     id: 'wathba',
@@ -1803,7 +1803,7 @@ const initialNodes = [
     label: 'Deira',
     subtext: 'Dubai',
     details: 'District in Dubai, UAE.',
-    x: 700,
+    x: 800,
     y: 340
   },
   {
@@ -1812,7 +1812,7 @@ const initialNodes = [
     label: 'Jebel Ali Port',
     subtext: 'Dubai',
     details: 'Major port in Dubai.',
-    x: 900,
+    x: 975,
     y: 340
   },
   {
@@ -1821,8 +1821,8 @@ const initialNodes = [
     label: 'Umm Qasr Port',
     subtext: 'Basra',
     details: 'Iraqi port, entry for shipments.',
-    x: 1100,
-    y: 340
+    x: 975,
+    y: 500
   },
   {
     id: 'aswar',
@@ -1830,8 +1830,8 @@ const initialNodes = [
     label: 'Aswar Exchange Company',
     subtext: 'Final Destination',
     details: 'Basra Governorate\n(30.5023953, 47.8330645)',
-    x: 1340,
-    y: 340
+    x: 975,
+    y: 700
   }
 ];
 
