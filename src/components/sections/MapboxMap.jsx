@@ -2086,7 +2086,7 @@ const MapboxMap = ({ isVisible }) => {
         'Minimal online presence with defunct website',
         'Suspected front company for money movement operations'
       ],
-      imageUrl: 'public/images/Screenshot 2025-02-04_2.png'
+      imageUrl: '/images/Screenshot 2025-02-04_2.png'
     },
     {
       coordinates: [55.040535, 25.023570],
@@ -2098,7 +2098,7 @@ const MapboxMap = ({ isVisible }) => {
         'Multiple visits between Dec 5-9 suggesting surveillance',
         'Departure point of AS CLEMENTINA at 17:30 UTC Dec 6'
       ],
-      imageUrl: 'public/images/Jebel_Ali_Port_2_Imresolt.png'
+      imageUrl: '/images/Jebel_Ali_Port_2_Imresolt.png'
     },
     {
       coordinates: [47.932724, 30.041533],
@@ -2110,7 +2110,7 @@ const MapboxMap = ({ isVisible }) => {
         'RED device tracked to port authority buildings',
         'Evidence of established port access procedures'
       ],
-      imageUrl: 'public/images/FB_IMG_1707302444778-850x560.png'
+      imageUrl: '/images/FB_IMG_1707302444778-850x560.png'
     },
     {
       coordinates: [47.8330645, 30.5023953],
@@ -2122,7 +2122,7 @@ const MapboxMap = ({ isVisible }) => {
         'After-hours operation suggesting deliberate timing',
         'RED device showed distinct pattern of movement to this location'
       ],
-      imageUrl: 'public/images/Screenshot_2025_02_04.png'
+      imageUrl: '/images/Screenshot_2025_02_04.png'
     }
 ]
 
@@ -2134,21 +2134,21 @@ const MapboxMap = ({ isVisible }) => {
       heading: 'Some Bold Heading',
       sentence: 'A single sentence of placeholder text describing something interesting.',
       bulletPoints: ['First bullet point', 'Second bullet point', 'Third bullet point'],
-      imageUrl: 'public/images/Jebel_Ali_Port_2_Imresolt.png'
+      imageUrl: '/images/Jebel_Ali_Port_2_Imresolt.png'
     },
     {
       label: 'Segment 2',
       heading: 'Some Bold Heading',
       sentence: 'A single sentence of placeholder text describing something interesting.',
       bulletPoints: ['First bullet point', 'Second bullet point', 'Third bullet point'],
-      imageUrl: 'public/images/Jebel_Ali_Port_2_Imresolt.png'
+      imageUrl: '/images/Jebel_Ali_Port_2_Imresolt.png'
     },
     {
       label: 'Segment 3',
       heading: 'Some Bold Heading',
       sentence: 'A single sentence of placeholder text describing something interesting.',
       bulletPoints: ['First bullet point', 'Second bullet point', 'Third bullet point'],
-      imageUrl: 'public/images/Jebel_Ali_Port_2_Imresolt.png'
+      imageUrl: '/images/Jebel_Ali_Port_2_Imresolt.png'
     }
   ];
 
