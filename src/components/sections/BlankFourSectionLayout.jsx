@@ -1003,7 +1003,7 @@ const BlankFourSectionLayout = () => {
               Afaq Al-Mustqbal Transport LLC
             </h3>
             <img
-              src="/images/Screenshot_2025_02_05_1.png"
+              src="/images/blue.png"
               alt="Screenshot_2025_02_05_2"
               className="w-full h-auto rounded-lg"
             />
