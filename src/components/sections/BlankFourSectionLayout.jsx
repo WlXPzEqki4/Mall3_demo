@@ -810,7 +810,7 @@ const markersData = [
   {
     color: '#0070f3', // e.g. bright blue
     coordinates: [55.40013385682388, 25.29065286825747],
-    popupImage: 'images/p2.jpg', // Another example
+    popupImage: 'images/p2.png', // Another example
     popupHeading: 'Afaq Al-Mustqbal Transport LLC',
     popupText:
       'Location: Al Qusais next to Galadari Driving School, Dubai, Dubai, United Arab Emirates.'

@@ -4099,7 +4099,7 @@ const CompanyInvestigation = ({ bottomSpace = 'mb-24' }) => {
         {/* Wrap your image and heading together in a flex container */}
         <div className="flex items-center mb-8">
             <img
-                src="/images/p2.jpg"
+                src="/images/p2.png"
                 alt="Company Logo"
                 className="mr-4 h-32 w-32 object-contain"
             />

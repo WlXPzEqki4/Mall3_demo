@@ -187,7 +187,7 @@ const HeatmapCarousel = () => {
   const heatmaps = [
     {
       title: "S&P 500 Closing Bell Heatmap (Jan 27, 2025)",
-      image: "/public/images/S&P_Closing_27012025.jpg"
+      image: "/public/images/S&P_Closing_27012025.png"
     },
     {
       title: "S&P 500 Opening Bell Heatmap (Jan 27, 2025)",
